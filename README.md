@@ -5,8 +5,8 @@
 
 \begin{document}
 
-\begin{titlepage}
-
+	\begin{titlepage}
+	
 	\begin{center}
 	\vspace*{50mm}
 
@@ -37,6 +37,6 @@
 	\hfill \par
 	Date \hspace{2cm} \\
 	
-\end{titlepage}
+	\end{titlepage}
 
 \end{document}
